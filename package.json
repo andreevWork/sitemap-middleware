@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreevWork/sitemap-middleware.git"
+    "url": "git+https://github.com/andreevWork/sitemap.xml.git"
   },
   "keywords": [
     "express",
@@ -21,7 +21,7 @@
   "author": "Andreev Vladimir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andreevWork/sitemap-middleware/issues"
+    "url": "https://github.com/andreevWork/sitemap.xml/issues"
   },
-  "homepage": "https://github.com/andreevWork/sitemap-middleware#readme"
+  "homepage": "https://github.com/andreevWork/sitemap.xml#readme"
 }
